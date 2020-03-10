@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Imagen del <font color="red"><i>Pato Lucas</i></font></h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro consequuntur numquam facere? Saepe ullam officia iure, quod, repudiandae laborum explicabo architecto temporibus pariatur mollitia asperiores natus officiis molestias eaque. Hic! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis minus harum dolores, nesciunt beatae tempora cum tenetur ex nam voluptatibus obcaecati minima culpa dolore reiciendis! Nisi odit nesciunt temporibus ducimus.
+    Soluta error dolore quasi voluptas rerum, repudiandae sunt minima quis delectus ab cum maiores adipisci. Illo, explicabo. Accusantium, nisi totam nobis consequatur est eveniet quod. Perspiciatis minus quo modi placeat!
+    Cumque nobis itaque sed unde quam ad sequi adipisci ducimus quia nihil? Atque, ullam ad? Repudiandae, soluta iusto minima, officia commodi quasi corporis officiis facere dolor similique sit natus exercitationem!
+    Fugiat, officiis. Illum odit recusandae, veritatis hic, iste debitis deserunt omnis maiores non quod, similique obcaecati tempore rerum placeat ea officia consequatur est. Omnis blanditiis dolore suscipit molestiae voluptatum odit?
+    Temporibus molestias totam sapiente ipsa laudantium aspernatur animi sint error nobis enim qui, id repellat? Perspiciatis vel eius cupiditate, ipsa error reprehenderit rerum perferendis cumque iste vero eum quasi dicta?</p>
+    <div align="center">
+    <a href="https://i.pinimg.com/originals/fb/51/59/fb5159686dcef8f4581bd63c69fedd25.jpg" target="_blank">
+    <img/ src="https://i.pinimg.com/originals/fb/51/59/fb5159686dcef8f4581bd63c69fedd25.jpg" alt="Pato lucas" width="200px" height="200px" title="Pato Lucas">
+    </a>
+    </div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis provident quas praesentium repudiandae sit officia deleniti eaque ea neque ducimus nostrum, commodi vitae earum nulla perspiciatis excepturi, tempora ex incidunt. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis culpa hic veritatis exercitationem consequatur minima odio numquam nihil magnam illo architecto necessitatibus eum, velit ducimus aut? Dolor sapiente autem ducimus?Commodi numquam nostrum nihil molestiae vitae debitis tempore deleniti aspernatur accusamus totam repudiandae adipisci labore, accusantium distinctio nobis minus nisi deserunt aliquid temporibus aut eos delectus mollitia iure fugiat. Dignissimos.</p>
+    <div align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmRbRhBGtXfEAPDR4spQxoTjzQ5tgcI8UgXg-U6P0J9jYAmxEj" alt="Pato Lucas 2" usemap="#patolucas" width="200px" height="200PXP">
+    </div>
+    <map name="patolucas">
+        <area shape="rect" coords="25,25,75,175" href="https://i.ytimg.com/vi/Ab2p6c8sxV8/maxresdefault.jpg"" alt="pato">
+        <area shape="circle" coords="150,100,40" href="https://peru21.pe/resizer/YP0FANT_7ziHyeP3B4KuWK66e04=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/LZNJRNHF6NEOPCSRLOTOU4P6XI.jpg" alt="demonio">
+    </map>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque sint veniam voluptatibus corporis deleniti rem velit fugit eaque, nihil consequatur dicta commodi quia quos debitis natus? Nemo dolorum esse officia.
+    Quibusdam beatae esse, eum quidem illum iure obcaecati et, perspiciatis officiis doloremque eligendi eaque ducimus pariatur iusto veniam architecto quaerat sequi ab in ratione tempore perferendis autem! Corporis, expedita facilis?
+    Aut debitis, vitae officiis facere itaque autem doloribus voluptate ducimus laudantium aspernatur tempora, saepe enim excepturi quasi! Ratione natus nemo deleniti tempora. Sed error distinctio consequuntur harum optio aspernatur reiciendis!</p>
+    <div align="center">
+    <picture>
+        <source media="(min-width:1000px)" srcset="https://i.pinimg.com/originals/fc/a6/dd/fca6dd029cf89e3506faae64bac377fb.gif">
+        <source media="(min-width:800px)" srcset="https://reygif.com/media/demonio-tasmania-20132.gif">
+        <img src="https://media2.giphy.com/media/t4o2JOyDq9Z0k/source.gif">
+    </picture>
+    </div>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui inventore optio illum quas ipsa dolores, ab harum non consequatur adipisci cupiditate architecto sunt ea omnis laudantium ut expedita voluptatibus eius.lo Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam explicabo blanditiis ipsam! Hic esse pariatur eum officia consequatur maiores tenetur ullam inventore. Reiciendis accusamus, nobis recusandae laborum quidem dolore nam!</p>
+    <div align="center">
+        <video width="300px" controls>
+            <source src="vid1.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/24gNhTcy6pw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</body>
+</html>
